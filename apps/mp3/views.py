@@ -1,4 +1,4 @@
-# Импорты.
+# Импорты
 from django.shortcuts import render
 from django.views.generic.edit import FormView
 from apps.mp3.forms import MailForm
