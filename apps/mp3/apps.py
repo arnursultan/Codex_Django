@@ -1,4 +1,4 @@
-# Импортируем класс AppConfig из модуля django.apps
+# Импорты
 from django.apps import AppConfig
 
 # Определяем кастомный класс AppConfig для приложения "mp3"
