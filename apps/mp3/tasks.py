@@ -1,4 +1,4 @@
-# Импортируем необходимые библиотеки и модули
+# Импорты
 from youtube_dl import YoutubeDL
 from django.core.mail import EmailMessage
 from django.conf import settings
