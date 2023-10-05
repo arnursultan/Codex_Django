@@ -1,4 +1,4 @@
-# Импортируем необходимые модули и библиотеки
+# Импорты.
 from django import forms
 from apps.mp3.tasks import send_feedback_email_task
 
