@@ -1,4 +1,4 @@
-# Импортируем необходимые модули и функции Django
+# Импорты
 from django.urls import path
 from apps.mp3.views import MailFormView, done, error
 
